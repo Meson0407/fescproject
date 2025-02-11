@@ -75,7 +75,7 @@ pnpm husky install
 
 ## :email: 联系
 
--   **132**: <http://encodestudio.cn>
+-   **1332**: <http://encodestudio.cn>
 -   **前端编码规范工程化** <https://encode-studio-fe.github.io/fe-spec/>
 -   **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
 
