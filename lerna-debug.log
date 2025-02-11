@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'clean' ],
+0 silly argv   lernaVersion: '6.6.2',
+0 silly argv   '$0': 'node_modules/lerna/dist/cli.js'
+0 silly argv }
+1 notice cli v6.6.2
+2 verbose rootPath /Users/xuetao/Desktop/印客/项目实战/前端编码规范工程化/first-lesson/demo
+3 verbose packageConfigs Package manager 'pnpm' detected. Resolving packages using 'pnpm-workspace.yaml'.
+4 error TypeError: Cannot read properties of undefined (reading 'packages')
+4 error     at get packageConfigs [as packageConfigs] (/Users/xuetao/Desktop/印客/项目实战/前端编码规范工程化/first-lesson/demo/node_modules/.pnpm/registry.npmmirror.com+lerna@6.6.2/node_modules/lerna/dist/cli.js:1445:55)
+4 error     at get fileFinder [as fileFinder] (/Users/xuetao/Desktop/印客/项目实战/前端编码规范工程化/first-lesson/demo/node_modules/.pnpm/registry.npmmirror.com+lerna@6.6.2/node_modules/lerna/dist/cli.js:1551:59)
+4 error     at _Project.getPackages (/Users/xuetao/Desktop/印客/项目实战/前端编码规范工程化/first-lesson/demo/node_modules/.pnpm/registry.npmmirror.com+lerna@6.6.2/node_modules/lerna/dist/cli.js:1564:21)
+4 error     at /Users/xuetao/Desktop/印客/项目实战/前端编码规范工程化/first-lesson/demo/node_modules/.pnpm/registry.npmmirror.com+lerna@6.6.2/node_modules/lerna/dist/cli.js:1939:47
