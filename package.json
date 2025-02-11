@@ -11,7 +11,14 @@
     "vuepress-plugin-one-click-copy": "^1.0.2",
     "vuepress-plugin-zooming": "^1.1.7",
     "@commitlint/cli": "17.6.1",
-    "markdownlint": "^0.28.1"
+    "markdownlint": "^0.28.1",
+    "pnpm": "^8.6.0",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.2",
+    "typedoc": "^0.24.7",
+    "typescript": "^5.0.4",
+    "vue-template-compiler": "^2.7.14"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -26,6 +33,9 @@
     "deploy": "bash deploy.sh",
     "publish": "lerna publish",
     "lint": "markdownlint README.md"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
   },
   "publishConfig": {
     "access": "public",
