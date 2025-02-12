@@ -76,19 +76,19 @@ export default defineConfig4CustomTheme({
 			},
 		],
 		logo: '/img/logo.png',
-		repo: 'encode-studio-fe/fe-spec',
+		repo: 'Meson0407/fescproject',
 		searchMaxSuggestions: 10,
 		docsDir: 'docs',
 		footer: {
 			createYear: 2023,
 			copyrightInfo:
-				'encode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>',
+				'encode studio | <a href="https://github.com/Meson0407/fescproject" target="_blank">github</a>',
 		},
 
 		extendFrontmatter: {
 			author: {
 				name: '澄怀',
-				link: 'https://github.com/encode-studio-fe/fe-sepc',
+				link: 'https://github.com/Meson0407/fescproject',
 			},
 		},
 	},

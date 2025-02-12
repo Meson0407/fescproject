@@ -1,4 +1,4 @@
-# fe-spec
+# fescproject
 
 前端编码规范工程化1
 
@@ -76,7 +76,7 @@ pnpm husky install
 ## :email: 联系
 
 -   **133232**: <http://encodestudio.cn>
--   **前端编码规范工程化** <https://encode-studio-fe.github.io/fe-spec/>
--   **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
+-   **前端编码规范工程化** <https://github.com/Meson0407/fescproject/>
+-   **GitHub**: <https://github.com/Meson0407/fescproject>
 
 </br>

@@ -9,14 +9,14 @@
       "lint"
     ],
     "author": "chenghuai",
-    "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+    "homepage": "https://github.com/Meson0407/fescproject#readme",
     "license": "ISC",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+      "url": "git+https://github.com/Meson0407/fescproject.git"
     },
     "bugs": {
-      "url": "https://github.com/encode-studio-fe/fe-spec/issues"
+      "url": "https://github.com/Meson0407/fescproject/issues"
     },
     "dependencies": {
       "conventional-changelog-conventionalcommits": "^4.5.0"

@@ -6,7 +6,7 @@ tags:
     - 编码规范
 author:
     name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    link: https://github.com/Meson0407/fescproject
 ---
 
 # HTML 编码规范
